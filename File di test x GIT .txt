@@ -3,3 +3,8 @@ Testo iniziale modificato.
 File azzerato!
 +1
 +1 // da remoto
+
+
+==========
+
+Qui vado avanti sul master branch

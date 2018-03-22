@@ -8,3 +8,5 @@ File azzerato!
 ==========
 
 Qui vado avanti sul master branch
+
+e continuo

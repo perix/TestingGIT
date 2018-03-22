@@ -1,1 +1,3 @@
-Testo iniziale modificato, ancora
+Testo iniziale modificato.
+
+File azzerato!

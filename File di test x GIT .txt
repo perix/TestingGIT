@@ -4,9 +4,8 @@ File azzerato!
 +1
 +1 // da remoto
 
+sono sul branch
 
-==========
+e continuo anche sul master
 
-Qui vado avanti sul master branch
-
-e continuo
+branch completato e Merge!!!
